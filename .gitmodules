@@ -1,0 +1,12 @@
+[submodule "Practice-of-Software-Engineering-II-Zuul/zuul_web"]
+	path = Practice-of-Software-Engineering-II-Zuul/zuul_web
+	url = https://git.epis2048.dev/epis2048/zuul_web.git
+[submodule "Practice-of-Software-Engineering-II-Zuul/zuul_api"]
+	path = Practice-of-Software-Engineering-II-Zuul/zuul_api
+	url = https://git.epis2048.dev/epis2048/zuul_api.git
+[submodule "Practice-of-Software-Engineering-II-Zuul/zuul_ma_api"]
+	path = Practice-of-Software-Engineering-II-Zuul/zuul_ma_api
+	url = https://git.epis2048.dev/epis2048/zuul_ma_api.git
+[submodule "Practice-of-Software-Engineering-II-Zuul/zuul_ma_web"]
+	path = Practice-of-Software-Engineering-II-Zuul/zuul_ma_web
+	url = https://git.epis2048.dev/epis2048/zuul_ma_web.git
