@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rooms>
+    <room id="1">
+        <room_name>outside</room_name>
+        <description>outside the main entrance of the university</description>
+        <north>6</north>
+        <east>2</east>
+        <south>4</south>
+        <west>3</west>
+    </room>
+    <room id="2">
+        <room_name>theater</room_name>
+        <description>in a lecture theater</description>
+        <west>1</west>
+        <has_magic_cookie>1</has_magic_cookie>
+    </room>
+    <room id="3">
+        <room_name>pub</room_name>
+        <description>in the campus pub</description>
+        <east>1</east>
+    </room>
+    <room id="4">
+        <room_name>lab</room_name>
+        <description>in a computing lab</description>
+        <north>1</north>
+        <east>5</east>
+    </room>
+    <room id="5">
+        <room_name>office</room_name>
+        <description>in the computing admin office</description>
+        <west>4</west>
+    </room>
+    <room id="6">
+        <room_name>random</room_name>
+        <description>in a random place</description>
+        <south>1</south>
+        <is_random_room>1</is_random_room>
+    </room>
+
+</rooms>

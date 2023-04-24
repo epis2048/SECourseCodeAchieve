@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item id="1">
+        <item_name>stone</item_name>
+        <item_room_id>1</item_room_id>
+        <item_weight>10</item_weight>
+    </item>
+    <item id="2">
+        <item_name>flower</item_name>
+        <item_room_id>1</item_room_id>
+        <item_weight>1</item_weight>
+    </item>
+    <item id="3">
+        <item_name>mouse</item_name>
+        <item_room_id>4</item_room_id>
+        <item_weight>3</item_weight>
+    </item>
+</items>
